@@ -44,6 +44,3 @@ Principais variáveis:
 
 Usamos IA (Claude) como apoio no trabalho, sobretudo no script em R, na junção das bases e na revisão do texto. O relato completo está na seção "Uso de inteligência artificial" do artigo.
 
-Conversas com a IA:
-- Theodoro: [colar o link]
-- Caio: [colar o link]
