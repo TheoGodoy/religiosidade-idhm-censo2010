@@ -7,7 +7,7 @@ Código e dados do artigo *Religiosidade e desenvolvimento socioeconômico nos m
 ## Conteúdo
 
  Arquivo Descrição 
-|---|---|
+
  `analise.R`  Script que gera todas as tabelas e figuras do artigo |
  `base_final_v5.csv`  Base de dados: corte transversal dos 5.565 municípios brasileiros em 2010 (5.565 linhas e 28 colunas) |
 
