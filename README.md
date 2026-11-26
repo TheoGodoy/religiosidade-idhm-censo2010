@@ -78,7 +78,4 @@ Usamos inteligência artificial (Claude) como ferramenta ao longo do trabalho: n
 - Conversa de Theodoro: *[colar o link]*
 - Conversa de Caio: *[colar o link]*
 
-## Links
 
-- Script (`analise.R`): *[colar o link]*
-- Base de dados (`base_final_v5.csv`): *[colar o link]*
