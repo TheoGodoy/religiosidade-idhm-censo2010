@@ -7,11 +7,11 @@ Autores: Caio Benetti do Amaral Maciel e Theodoro da Fonseca Pereira Tavares de 
 ## Arquivos
 
 - `analise.R`: script que gera as tabelas e figuras do artigo.
-- `base_final_v5.csv`: base dos 5.565 municípios brasileiros em 2010 (28 colunas).
+- `base_final.csv`: base dos 5.565 municípios brasileiros em 2010 (28 colunas).
 
 ## Como rodar
 
-1. Coloque `analise.R` e `base_final_v5.csv` na mesma pasta.
+1. Coloque `analise.R` e `base_final.csv` na mesma pasta.
 2. Abra o `analise.R` no RStudio e rode o script inteiro (Source).
 3. O script usa a pasta onde está salvo. Se não achar a base, pede para você selecionar o arquivo.
 4. Os pacotes que faltarem (`lmtest`, `car` e `sf`) são instalados automaticamente. Versão do R usada: 4.5.1.
